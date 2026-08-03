@@ -1,4 +1,4 @@
-# SafeURL — On-Device Phishing Detector with Explainable AI
+# PhishingUrlFinder — On-Device Phishing Detector with Explainable AI (Beta Version)
 
 A Chrome extension that scores the URL of your current tab for phishing risk
 and explains *why*, entirely on-device. No URL is ever sent to a server.
