@@ -3,7 +3,7 @@
 A Chrome extension that scores the URL of your current tab for phishing risk
 and explains *why*, entirely on-device. No URL is ever sent to a server.
 
-## How it's different from the "standard" version
+## How it's different from the "Standard" version
 
 Instead of ONNX + `onnxruntime-web` (a WASM runtime you'd need to download
 and bundle, ~7MB, extra moving part to demo live), the trained Random
